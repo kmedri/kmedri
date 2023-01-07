@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kmedri" target="blank"><img src="https://img.shields.io/twitter/follow/kmedri?logo=twitter&style=for-the-badge" alt="kmedri" /></a> </p>
 
-- 💎 I’m currently working on [Omdena South Africa Chapter - MUV](https://omdena.com/chapter-challenges/mapping-urban-vulnerability-areas-using-open-source-data/)
+- 💎 I’m currently working on [Omdena Manila/Philippines Chapter - MUV](https://omdena.com/local-chapters/manila-philippines-chapter/)
 
 - 🔭 I’m currently working on [Omdena Liverpool Chapter - RTC](https://omdena.com/chapter-challenges/predicting-rtc-severity-using-machine-learning/)
 
