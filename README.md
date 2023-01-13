@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/kmedri/kmedri/blob/main/header.gif)]("https://github.com/kmedri")
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate data specialist</h3>
+<h1 align="center">Hi I'm Kevin 👋</h1>
+<h3 align="center">A passionate budding data scientist</h3>
 
 <img align="right" alt="brain" width="400" src="https://github.com/kmedri/kmedri/blob/main/ai-brain.gif">
 
