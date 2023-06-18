@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kmedri" target="blank"><img src="https://img.shields.io/twitter/follow/kmedri?logo=twitter&style=for-the-badge" alt="kmedri" /></a> </p>
 
-- 💎 I’m currently working on [Omdena Manila/Philippines Chapter - MUV](https://omdena.com/local-chapters/manila-philippines-chapter/)
+- 💎 I’m currently working on [Omdena Italy/Milano Chapter - Covid and Crime](https://omdena.com/chapter-challenges/assessing-the-impact-of-covid-19-on-crime-rates-in-italy/)
 
-- 🔭 I’m currently working on [Omdena Liverpool Chapter - RTC](https://omdena.com/chapter-challenges/predicting-rtc-severity-using-machine-learning/)
+- 🔭 I’m currently working on [Omdena Philippines/Manila - UN Habitat Chapter](https://omdena.com/local-chapters/manila-philippines-chapter/)
 
 - 🌱 I’m currently learning **All things Python**
 
